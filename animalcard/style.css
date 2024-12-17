@@ -24,10 +24,10 @@
     
     
 }
-.emptycard{
+.emptycard {
 
     padding-top: 1%;
-    padding-left: 8%;
+    
     
     background: orangered;
     width: 380px;
@@ -39,6 +39,7 @@
     transform: translate(-50%, 50%);
     border-radius: 10px;
     display: flex; 
+    
 }
 
 table, th, tbody, td {
@@ -46,7 +47,7 @@ table, th, tbody, td {
     padding: 2%;
     margin: 2%;
     border-collapse: collapse;
-    line-height: -1px;
+    line-height: 1.2rem;
 
 }
 img {
@@ -59,8 +60,10 @@ img {
 }
  
 h1 {
+    padding: .4rem 8rem;
     color: aliceblue;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
 }
     
     
